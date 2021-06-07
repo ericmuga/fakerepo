@@ -1,5 +1,5 @@
-{
-       id:1,
+posts:[{
+                             id:1,
                              title:'First',
                              content:'Some dummy text',
                              time:'time 1'
@@ -15,5 +15,4 @@
                              title:'Third',
                              content:'Some dummy text',
                              time:'time 3'
-                           }
-}
+                           }]
